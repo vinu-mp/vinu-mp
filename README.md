@@ -10,7 +10,7 @@
 
 <br>
 
-### Goals &nbsp;&nbsp;🥅
+### 🥅&nbsp;&nbsp;Goals
 
 &nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 - build a small parallel coding platform<br>
 &nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;2024 - build a product, take it to market and obviously succeed<br>
