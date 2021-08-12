@@ -36,7 +36,7 @@
 <br>
 
 ### Find me on
-<a href="https://codepen.io/vinu_pen" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="vinu_pen" height="30" width="100" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/14267060" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="14267060" height="30" width="100" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/vinu-mp" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vinu-mp" height="30" width="100" /></a>
+<a href="https://codepen.io/vinu_pen" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="vinu_pen" height="30" width="100" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/14267060" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="14267060" height="30" width="120" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/vinu-mp" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="vinu-mp" height="30" width="100" /></a>
 
 <br>
 
