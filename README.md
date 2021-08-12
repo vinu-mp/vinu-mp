@@ -8,6 +8,7 @@
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
 &nbsp;&nbsp;&nbsp;📖&nbsp;&nbsp;Planning to spend time on DSA<br>
 
+<br>
 
 ### Goals &nbsp;&nbsp;🥅
 
