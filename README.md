@@ -4,7 +4,7 @@
 
 ### Frontend Dev | Time and Money Investor
 
-&nbsp;&nbsp;&nbsp;Currently exploring ember js
+&nbsp;&nbsp;&nbsp;Currently exploring ember js <br>
 &nbsp;&nbsp;&nbsp;Planning to spend time on DSA
 &nbsp;&nbsp;&nbsp;:chestnut: 2021 goal is to build a small parallel coding platform
 &nbsp;&nbsp;&nbsp;:seedling: 2024 goal is to build a product, take it to market and obviously succeed
