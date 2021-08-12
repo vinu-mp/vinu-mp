@@ -12,9 +12,9 @@
 
 ### Goals &nbsp;&nbsp;🥅
 
-&nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 goal - build a small parallel coding platform<br>
-&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;2024 goal - build a product, take it to market and obviously succeed<br>
-&nbsp;&nbsp;&nbsp;🌴&nbsp;&nbsp;2035 goal - Retire and travel :trollface: 
+&nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 - build a small parallel coding platform<br>
+&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;2024 - build a product, take it to market and obviously succeed<br>
+&nbsp;&nbsp;&nbsp;🌴&nbsp;&nbsp;2035 - Retire and travel :trollface: 
 
 <br>
 
