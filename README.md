@@ -5,9 +5,9 @@
 
 &nbsp;&nbsp;&nbsp;Currently exploring ember js<br>
 &nbsp;&nbsp;&nbsp;Planning to spend time on DSA<br>
-&nbsp;&nbsp;&nbsp;:chestnut:&nbsp;2021 goal - build a small parallel coding platform<br>
-&nbsp;&nbsp;&nbsp;:seedling:&nbsp;2024 goal - build a product, take it to market and obviously succeed<br>
-&nbsp;&nbsp;&nbsp;:ear_of_rice:&nbsp;2035 goal - Retire and travel
+&nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 goal - build a small parallel coding platform<br>
+&nbsp;&nbsp;&nbsp;🌱&nbsp;2024 goal - build a product, take it to market and obviously succeed<br>
+&nbsp;&nbsp;&nbsp;🌴&nbsp;2035 goal - Retire and travel
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
