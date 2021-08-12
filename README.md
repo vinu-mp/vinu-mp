@@ -26,13 +26,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-vinu-mp.vercel.app/api?username=vinu-mp&theme=dark&show_icons=true&hide_border=true" />
 
 </details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <p>
-  <img src="https://github-readme-stats-vinu-mp.vercel.app/api/top-langs/?username=vinu-mp&theme=shades-of-purple&hide_langs_below=1&layout=compact" />
-  <img src="https://github-readme-stats-vinu-mp.vercel.app/api?username=vinu-mp&show_icons=true&hide_border=true&count_private=true&theme=shades-of- purple&icon_color=fad000" alt="codeSTACKr's GitHub Stats">
-
-  </p>
-
-</details>
