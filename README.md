@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="images/banner.gif" width="400" height="320"/>
 
 ## Hola, <br><br> &nbsp;&nbsp;&nbsp; Vinu here 👋
+
 ### Frontend Dev | Time and Money Investor
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
@@ -44,7 +45,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+   <br>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-vinu-mp.vercel.app/api?username=vinu-mp&theme=dark&show_icons=true&hide_border=true" />
 
 </details>
