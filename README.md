@@ -1,9 +1,7 @@
 <img align="right" alt="GIF" src="images/banner.gif" width="400" height="320"/>
 
 ## Hola, <br><br> &nbsp;&nbsp;&nbsp; Vinu here 👋
-
-
-
+<br>
 ### Frontend Dev | Time and Money Investor
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
