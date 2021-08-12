@@ -1,5 +1,4 @@
-<img src="images/banner.gif" alt="banner"/>
-
+<img align="right" alt="GIF" src="images/banner.gif" width="500" height="320"/>
 ## Hi there, <br> 
    ## this is Vinu here 👋
 
