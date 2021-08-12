@@ -1,9 +1,15 @@
 <img align="right" alt="GIF" src="images/banner.gif" width="500" height="320"/>
 
-<br>
-<br>
+## Hola, Vinu here 👋
 
-## Hi there, this is Vinu here 👋
+### Frontend Dev | Time and Money Investor
+
+  &nbsp&nbsp : Currently exploring ember js
+  &nbsp&nbsp : Planning to spend time on DSA
+  &nbsp&nbsp : 2021 goal is to build a small parallel coding platform
+  &nbsp&nbsp : 2024 goal is to build a product, take it to market and obviously succeed
+  &nbsp&nbsp : 2035 Retire and travel
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vinu_pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinu_pen" height="30" width="40" /></a>
