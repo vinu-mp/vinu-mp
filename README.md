@@ -3,10 +3,10 @@
 ## Hola, Vinu here 👋
 ### Frontend Dev | Time and Money Investor
 
-&nbsp;&nbsp;&nbsp;Currently exploring ember js
-&nbsp;&nbsp;&nbsp;Planning to spend time on DSA
-&nbsp;&nbsp;&nbsp;:chestnut: 2021 goal is to build a small parallel coding platform
-&nbsp;&nbsp;&nbsp;:seedling: 2024 goal is to build a product, take it to market and obviously succeed
+&nbsp;&nbsp;&nbsp;Currently exploring ember js<br>
+&nbsp;&nbsp;&nbsp;Planning to spend time on DSA<br>
+&nbsp;&nbsp;&nbsp;:chestnut: 2021 goal is to build a small parallel coding platform<br>
+&nbsp;&nbsp;&nbsp;:seedling: 2024 goal is to build a product, take it to market and obviously succeed<br>
 &nbsp;&nbsp;&nbsp;:ear_of_rice: 2035 Retire and travel
 
 <!-- <h3 align="left">Connect with me:</h3>
