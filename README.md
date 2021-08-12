@@ -17,7 +17,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
+  <!--START_SECTION:activity-->
 </details>
 
 <details>
