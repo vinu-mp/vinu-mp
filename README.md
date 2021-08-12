@@ -6,7 +6,9 @@
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
 &nbsp;&nbsp;&nbsp;📖&nbsp;&nbsp;Planning to spend time on DSA<br>
+
 <hr>
+
 ### Goals &nbsp;&nbsp;🥅
 
 &nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 goal - build a small parallel coding platform<br>
