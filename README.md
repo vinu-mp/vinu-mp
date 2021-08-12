@@ -1,3 +1,5 @@
+<img src="images/banner.gif" alt="banner"/>
+
 ## Hi there, <br> 
    ## this is Vinu here 👋
 
