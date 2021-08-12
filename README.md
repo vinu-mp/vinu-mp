@@ -21,5 +21,3 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-vinu-mp.vercel.app/api?username=vinu-mp&theme=dark&show_icons=true&hide_border=true" />
 
 </details>
-(https://github-readme-stats-vinu-mp.vercel.app/api?username=vinu-mp&show_icons=true&theme=dark)
-
