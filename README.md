@@ -3,11 +3,11 @@
 ## Hola, Vinu here 👋
 ### Frontend Dev | Time and Money Investor
 
-&nbsp;&nbsp;&nbsp;💻&nbsp;Currently exploring ember js<br>
-&nbsp;&nbsp;&nbsp;📖&nbsp;Planning to spend time on DSA<br>
-&nbsp;&nbsp;&nbsp;🌰&nbsp;2021 goal - build a small parallel coding platform<br>
-&nbsp;&nbsp;&nbsp;🌱&nbsp;2024 goal - build a product, take it to market and obviously succeed<br>
-&nbsp;&nbsp;&nbsp;🌴&nbsp;2035 goal - Retire and travel :trollface: 
+&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
+&nbsp;&nbsp;&nbsp;📖&nbsp;&nbsp;Planning to spend time on DSA<br>
+&nbsp;&nbsp;&nbsp;🌰&nbsp;&nbsp;2021 goal - build a small parallel coding platform<br>
+&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;2024 goal - build a product, take it to market and obviously succeed<br>
+&nbsp;&nbsp;&nbsp;🌴&nbsp;&nbsp;2035 goal - Retire and travel :trollface: 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
