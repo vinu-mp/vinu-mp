@@ -1,6 +1,8 @@
 <img align="right" alt="GIF" src="images/banner.gif" width="500" height="320"/>
+
 <br>
 <br>
+
 ## Hi there, this is Vinu here 👋
 
 <!-- <h3 align="left">Connect with me:</h3>
