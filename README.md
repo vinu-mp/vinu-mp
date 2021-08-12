@@ -4,7 +4,6 @@
 <br>
 
 ## Hi there, this is Vinu here 👋
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vinu_pen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinu_pen" height="30" width="40" /></a>
