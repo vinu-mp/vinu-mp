@@ -1,5 +1,4 @@
-## Hi there, 
-  ## this is Vinu here 👋
+## Hi there, <br> ## this is Vinu here 👋
 
 #### 
 <h3 align="left">Connect with me:</h3>
