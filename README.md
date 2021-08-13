@@ -6,7 +6,7 @@
 ### Frontend Dev | Time and Money Investor
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;Currently exploring ember js<br>
-&nbsp;&nbsp;&nbsp;📖&nbsp;&nbsp;Planning to spend time on DSA<br>
+&nbsp;&nbsp;&nbsp;📖&nbsp;&nbsp;Spending time on DSA<br>
 
 <br>
 
