@@ -50,8 +50,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/vinu-mp/github-readme-generator/pull/1) in [vinu-mp/github-readme-generator](https://github.com/vinu-mp/github-readme-generator)
-2. 💪 Opened PR [#1](https://github.com/vinu-mp/github-readme-generator/pull/1) in [vinu-mp/github-readme-generator](https://github.com/vinu-mp/github-readme-generator)
+1. 🎉 Merged PR [#2](https://github.com/vinu-mp/github-readme-generator/pull/2) in [vinu-mp/github-readme-generator](https://github.com/vinu-mp/github-readme-generator)
+2. 💪 Opened PR [#2](https://github.com/vinu-mp/github-readme-generator/pull/2) in [vinu-mp/github-readme-generator](https://github.com/vinu-mp/github-readme-generator)
 <!--END_SECTION:activity-->
 </details>
 
